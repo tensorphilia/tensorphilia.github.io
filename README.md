@@ -1,5 +1,5 @@
 # welcome to Tensorphilia!🌱
-![mainpic](https://github.com/tensorphilia/tensorphilia.github.io/blob/main/official%20website.png)
+![mainpic](https://github.com/tensorphilia/tensorphilia.github.io/blob/main/official%20website.png?raw=true)
 ## 🚀Our mission:
 Our mission is to connect experts and learners for the Iranian community's benefit. We can all learn from each other, no matter where we are. By sharing technical and soft skills, we can all benefit and get a boost to face challenges.
 Tensorphilia it's a combination of two words **"Tensor;a Deep Learning Term"** and **"Philia; Strong feeling towards something"** Together it makes the meaning of our group. __if you share our values, please do not hesitate to contact us.__ There is always room for improvement, and we are open to suggestions.
