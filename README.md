@@ -12,14 +12,36 @@ We also provived Study material on our [Telegram channel](https://t.me/tensorphi
 ## 🎯Current flow:
 we are currently deploying [Tensorphilia projects](https://github.com/tensorphilia/projects) sessions.
 
-## 👥main Hosting Team:
-1. [Sina Rahimian](https://www.linkedin.com/in/sina-rahimian-774935287/)
-2. [Fatemeh Zakerian](https://www.linkedin.com/in/ftme-zakerian/)
-3. [Mahshid Seyyedi](https://www.linkedin.com/in/mahshid-seyyedi)
-4. [Fatemeh Sarikhani](https://www.linkedin.com/in/fatemeh-sarikhani)
-
 ## 🤝Contributers:
-1. You can be next!
+|Name|Contribution|Linkedin Address| 
+|----------|----------|----------| 
+👥main Hosting Team:
+|Sina Rahimian| Row 1 Col 2 |[link](https://www.linkedin.com/in/sina-rahimian-774935287/) | 
+|Fatemeh Zakerian||[link](https://www.linkedin.com/in/ftme-zakerian/)|
+|Mahshid Seyyedi| Row 2 Col 2 | [link](https://www.linkedin.com/in/mahshid-seyyedi) | 
+|Fatemeh Sarikhani| Row 3 Col 2 | [link](https://www.linkedin.com/in/fatemeh-sarikhani) |
+🤝Contributers to hands on ml reading sessions:
+|Barzan Hayati|presentor 3x|[link](linkedin.com/in/barzanhayati)|
+|Elahe Dorani|presentor 2x|[link](linkedin.com/in/elahe-dorani)|
+|AmirReza BabaAhmadi|presentor|[link](linkedin.com/in/amirreza-babaahmadi)|
+|Ali Dehghan|presentor|[link](linkedin.com/in/ali-dehghan0)|
+|Tandis Salem|presentor|[link](linkedin.com/in/tandissalem)|
+|Amirhesam Vahdati|presentor|link|
+|Mostafa Mohammadi|presentor|[link](linkedin.com/in/mostafamhammadi)|
+|Mohammadreza Mousazadeh|presentor|[link](linkedin.com/in/mohammadreza-mousazadeh)|
+|Kamran Emami|presentor|[link](linkedin.com/in/hamed-emami)|
+|Negin Latifi|presentor|[link](linkedin.com/in/negin-latifi)|
+|Behnam Hasanbeygi |presentor|[link](linkedin.com/in/behnam-hasanbeygi)|
+|Amirreza Jalili|presentor|[link](linkedin.com/in/amirreza-jalili)|
+|Partow Moradi|presentor|[link](linkedin.com/in/partow-moradi)|
+|Sina Salakhi|presentor|[link](linkedin.com/in/sina-salakhi)|
+|Erfan Shafiee|presentor|[link](linkedin.com/in/erfan-shafiee-moghadam-)|
+|Hamid Khoeini|presentor|[link](linkedin.com/in/hamid-khoeini)
+|Moein Zeidanlou|presentor|[link](linkedin.com/in/moein-zeidanlou)
+|mohammad hossein soleimani|presentor|[link](linkedin.com/in/mohammad-hosseyn-soleimani)
+🤝Contributers to mini projects sessions:
+||presentor|link|
+
 
 
 ## 🌐 Socials:
