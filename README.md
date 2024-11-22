@@ -16,10 +16,10 @@ we are currently deploying [Tensorphilia projects](https://github.com/tensorphil
 |Name|Contribution|Linkedin Address| 
 |----------|----------|----------| 
 👥main Hosting Team:
-|Sina Rahimian| Row 1 Col 2 |[link](https://www.linkedin.com/in/sina-rahimian-774935287/) | 
-|Fatemeh Zakerian||[link](https://www.linkedin.com/in/ftme-zakerian/)|
-|Mahshid Seyyedi| Row 2 Col 2 | [link](https://www.linkedin.com/in/mahshid-seyyedi) | 
-|Fatemeh Sarikhani| Row 3 Col 2 | [link](https://www.linkedin.com/in/fatemeh-sarikhani) |
+|Sina Rahimian|Board member|[link](https://www.linkedin.com/in/sina-rahimian-774935287/) | 
+|Fatemeh Zakerian|Board member|[link](https://www.linkedin.com/in/ftme-zakerian/)|
+|Mahshid Seyyedi|Board member| [link](https://www.linkedin.com/in/mahshid-seyyedi) | 
+|Fatemeh Sarikhani|Board member| [link](https://www.linkedin.com/in/fatemeh-sarikhani) |
 🤝Contributers to hands on ml reading sessions:
 |Barzan Hayati|presentor 3x|[link](linkedin.com/in/barzanhayati)|
 |Elahe Dorani|presentor 2x|[link](linkedin.com/in/elahe-dorani)|
