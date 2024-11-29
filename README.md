@@ -40,7 +40,7 @@ we are currently deploying [Tensorphilia projects](https://github.com/tensorphil
 |Moein Zeidanlou|presentor|[link](linkedin.com/in/moein-zeidanlou)
 |mohammad hossein soleimani|presentor|[link](linkedin.com/in/mohammad-hosseyn-soleimani)
 🤝Contributers to mini projects sessions:
-||presentor|link|
+|Hossein Salimi|presentor|[link](linkedin.com/in/hossein-salimi)|
 
 
 
